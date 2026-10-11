@@ -47,8 +47,7 @@ An interactive sales dashboard designed to explore business performance and turn
 
 **Skills Demonstrated:** Excel, Data Analysis, KPI Reporting, Data Visualization, Dashboard Design
 
-🔗 **Project Repository:** [Add Your Sales Dashboard Repository Link](YOUR_SALES_PROJECT_URL)
-
+🔗 **Project Repository:** https://github.com/kunalmittal-analyst/SALES-ANALYSIS-CASE-STUDY
 ---
 
 ### 🇮🇳 2. CPI Inflation Case Study | Economic Data Analysis
