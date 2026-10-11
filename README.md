@@ -65,11 +65,11 @@ An analytical case study exploring India's Consumer Price Index (CPI) and the ro
 - Examined CPI category data and trends over time.
 - Identified missing values and considered suitable imputation techniques where justified.
 - Explored moving averages as a potential method for handling missing observations.
-- Interpreted category-level patterns in the context of consumer prices and household spending.
+
 
 **Skills Demonstrated:** Data Cleaning, Missing-Value Treatment, Trend Analysis, Economic Data Interpretation, Excel
 
-🔗 **Case Study Repository:** [Add Your CPI Case Study Repository Link](YOUR_CPI_PROJECT_URL)
+🔗 **Case Study Repository:** https://github.com/kunalmittal-analyst/CPI-Inflation-Analysis-in-India-2013-2023-
 
 ---
 
